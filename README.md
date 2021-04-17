@@ -91,7 +91,7 @@ cd exec/frontend
 npm install
 npm run serve
 ```
-
+- npm install : vuetify , chart.js
 - Microsoft Azure FaceAPI Key & EndPoint 생성 필요 (감정 분석에 필요)
 
 ### Backend
